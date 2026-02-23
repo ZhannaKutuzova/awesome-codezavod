@@ -1,10 +1,10 @@
-# Awesome CodeZavod
+﻿# Awesome Anunnak
 
-> Curated list of resources for CodeZavod -- the most feature-rich AI development platform
+> Curated list of resources for Anunnak -- the most feature-rich AI development platform
 
-## What Makes CodeZavod Unique
+## What Makes Anunnak Unique
 
-CodeZavod is the **only AI platform** that combines all of these in one product:
+Anunnak is the **only AI platform** that combines all of these in one product:
 - **WebContainer** -- full Node.js in browser with HMR
 - **4 AI agents** (Router -> Architect -> Builder -> Mr Fixer)
 - **Mobile apps** (React Native + Expo -> App Store / Google Play)
@@ -19,10 +19,10 @@ No competitor offers even half of this.
 
 ## Official Links
 
-- [CodeZavod Platform](https://codezavod.com)
-- [Sign Up](https://codezavod.com/auth)
-- [About](https://codezavod.com/about)
-- [Telegram](https://t.me/codezavod_official)
+- [Anunnak Platform](https://Anunnak.com)
+- [Sign Up](https://Anunnak.com/auth)
+- [About](https://Anunnak.com/about)
+- [Telegram](https://t.me/Anunnak_official)
 
 ## Technology Stack
 
@@ -39,7 +39,7 @@ No competitor offers even half of this.
 
 ## vs Competitors
 
-| Feature | CodeZavod | Bolt.new | v0.dev | Lovable |
+| Feature | Anunnak | Bolt.new | v0.dev | Lovable |
 |---------|-----------|----------|--------|---------|
 | Multi-agent AI | YES 4 agents | NO 1 | NO 1 | NO 1 |
 | Mobile apps | YES | NO | NO | NO |
@@ -63,4 +63,5 @@ No competitor offers even half of this.
 
 ---
 
-[Start Building](https://codezavod.com/auth)
+[Start Building](https://Anunnak.com/auth)
+
